@@ -80,7 +80,7 @@ html, body {
 }
 
 .divNav {
-    padding-top: 8px;
+    padding-top: 12px;
     margin-bottom: 1px;
 
 }
@@ -151,7 +151,7 @@ h2 {
 .aba {
     width: 98%;
     margin-left: 1%;
-    background-color: #eedce8;
+    background-color: #f0f0f0;
     padding-bottom: 200px;
     border-radius: 1.2em;
     margin-bottom: 3px;
@@ -185,7 +185,5 @@ h2 {
     .queryBlock {
         display: inline-block;
     }
-
-    .v
 
 }
